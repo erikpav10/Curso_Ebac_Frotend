@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Bem Vindo, ao meu novo projeto.</h1>
+    <h2><Strong>Faça seu cadastro</Strong></h2>
+    <br>
+    <form> 
+        <input type="text" placeholder="Seu nome">
+        <br>
+        <input type="email" placeholder="Seu email">
+        <br>
+        <input type="text" placeholder="senha">
+        <br>
+        <button><strong>Enviar</strong></button><input type="checkbox" id=""checkbox-termos> <label for="checkbox-termos"></label><label>aceito os termos</label>
+    </form>
+
+</body>
+</html>
