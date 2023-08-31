@@ -1,0 +1,82 @@
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-image: linear-gradient(to right, #f1d8c9,#f2c3a7 );
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+}
+
+
+main {
+    background-color: white;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+}
+
+p {
+    text-align: justify;
+}
+
+.h1 {
+    height: 37px;
+    padding: 8px;
+    border: none;
+    margin: 40px;
+}
+
+.conteiner {
+    width: 1366px;
+    margin: auto;
+}
+
+.article #Conteudo fica alinhado na vertical** 
+    #display: flex;
+    #flex-wrap: wrap;
+    #justify-content: space-between;
+
+
+.article article img {
+    height: 180px;
+}
+
+.article article {
+    width: 100%;
+}
+header {
+    background-color: beige;
+}
+
+.article article a {
+    background-color: coral;
+    color: #fff;
+    padding: 8px;
+    display: inline-block;
+}
+
+.article article p,
+.article article a {
+    font-family: Arial, Helvetica, sans-serif;
+}
+header a {
+    background-color: burlywood;
+    color: #fff;
+    padding: 8px;
+    display: inline-block;
+}
+
+
+## Para colocar conteudo na margem da tela , mas com meu display ficou visualmente melhor sem.
+.body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+    
+.chama {
+    background-color: beige;
+}
